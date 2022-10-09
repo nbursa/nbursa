@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nenad
-- 👀 I’m interested in javascript and frontend
+- 👀 I’m interested in javascript and UI's
 - 🌱 I’m currently learning creative coding
 - 💞️ I’m looking to collaborate on inovative projects
 
