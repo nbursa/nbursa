@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nbursa
-- 👀 I’m interested in javascript
+- 👀 I’m interested in javascript and frontend
 - 🌱 I’m currently learning creative coding
 - 💞️ I’m looking to collaborate on inovative projects
 
