@@ -1,9 +1,1 @@
-- 👋 Hi, I’m Nenad
-- 👀 I’m interested in javascript and UI's
-- 🌱 I’m currently learning creative coding
-- 💞️ I’m looking to collaborate on inovative projects
-
-<!---
-nbursa/nbursa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋, I’m Nenad, frontend developer from Belgrade, Serbia. Enjoying work with Vue, React, Anguar, Svelte...and trying to confirm continuity in this universe.
